@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keynote Speakers
+title: Performances
 language: en
 ---
 

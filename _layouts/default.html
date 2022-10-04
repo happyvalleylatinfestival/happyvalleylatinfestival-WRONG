@@ -36,11 +36,9 @@
       {% if page.name contains "md" %}
         <a class="en" href="{{ site.baseurl }}/">EN</a>
         <a class="es" href="{{ site.baseurl | append: "/es" }}">ES</a>
-        <a class="fr" href="{{ site.baseurl | append: "/fr" }}">FR</a>
       {% else %}
         <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a> 
         <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
-        <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
       {% endif %}
     </nav> 
 

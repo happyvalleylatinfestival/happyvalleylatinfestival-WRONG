@@ -8,8 +8,8 @@ The Happy Valley Latin Festival in a one-day music and arts festival bringing to
 Following the festival’s first year success, Latin Vibe Alliance, a Non-Profit Organization was established.
 The purpose of Latin Vibe Alliance is to participate in the development of the Hispanic leadership in State College, Pennsylvania, and the surrounding communities by organizing, sponsoring and promoting a variety of community, social, educational, and cultural programs, events and activities that foster culture, arts, traditions and civic engagement, including the annual Happy Valley Latin Festival.
 
-
-<img src="/assets/clir-postdocs.jpg" width="100%" alt="Photo of the Symposium organizers" title="Margie, Hadassah, Jennifer and Nicté">
+<!-- image for the About page - add logo  -->
+<img src="/assets/latinfestival-small.png" width="100%" alt="Logo for the Latin Festival in Happy Valley; words surrounded by a yellow circle">
 
 ## Our event was featured on the News!
 

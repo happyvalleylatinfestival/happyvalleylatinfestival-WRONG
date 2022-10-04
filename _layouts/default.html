@@ -34,11 +34,11 @@
    
      <nav class="language-switcher">
       {% if page.name contains "md" %}
-        <a class="en" href="{{ site.baseurl }}/">EN</a>
-        <a class="es" href="{{ site.baseurl | append: "/es" }}">ES</a>
+        <a class="en" href="{{ site.baseurl }}/">English</a>
+        <a class="es" href="{{ site.baseurl | append: "/es" }}">Español</a>
       {% else %}
-        <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a> 
-        <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
+        <a class="en" href="{{ site.baseurl | append: page.handle }}">English</a> 
+        <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">Español</a>
       {% endif %}
     </nav> 
 

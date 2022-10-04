@@ -1,38 +1,33 @@
 ---
 layout: default
-title: Performances
+title: Performances Line-Up
 language: en
 ---
 
-We have invited several of the partner institutions in Latin America and the Caribbean that are currently working with academic institutions in the United States. In most cases, joint effort  is targeted to the digitization of collections in danger of disappearence due to environmental and/or political factors. The following institutions have already confirmed their attendance: 
+After the conversion of the face-to-face symposium to digital format due to the restrictions caused by COVID-19 and to accommodate for those who couldn't attend or for future reference, the symposium program was recorded and is available on Facebook:
 
-- Institut de Sauvegarde du Patrimoine National - ISPAN (Haiti)
+**Thursday, April 16**
 
-- Proceso de Comunidades Negras de Colombia (Colombia) 
-- National Institute of Culture and History (Belize) 
-- Fideicomiso Archivos Plutarco Elias Calles y Fernando Torreblanca (Mexico, D.F) 
-- National Library of Jamaica - NLJ (Jamaica) 
-- HeritEdge Connection - (Barbados)
+10:30 - 11:00am  Welcome and Introductions
 
-We are very grateful to have two of the most important current voices of the digital humanities field for our two-day event. 
+11:00 - 12:30am  [Archival projects and preservation efforts](https://www.facebook.com/watch/live/?v=933081897132867&ref=watch_permalink) 
 
-# Gimena del Rio Riande 
+12:30 - 01:30pm  [Lunch with Frost Art Museum Virtual Tour](https://www.facebook.com/dlocaribbean/videos/220714472595923/) 
 
-<img src="/assets/gimena_rio.jpg" width="100%" alt="Profile image of Gimena del Rio Riande" title="Credit: Jennifer Millar, Higher School of Economics">
+01:30 - 02:30pm  [Keynote Speaker Gimena del Rio Riande](https://www.facebook.com/dlocaribbean/videos/236070804417856/) 
 
-Dr. del Rio is a researcher at the [*Seminario de Edicion y Crítica Textual* ](http://www.iibicrit-conicet.gov.ar/)(SECRIT-IIBICRIT) of the National Scientific and Technical Research Council (CONICET. Buenos Aires, Argentina) and External Professor at [LINHD-UNED](http://linhd.uned.es/) (Madrid, Spain) and the University of Buenos Aires. Her main academic interests deal with Digital Scholarly Edition, the use, and methodologies of scholarly digital tools as “situated practices”, and the interaction of the global and the local in the development of academic disciplines. She is developing [*TTHub. Recursos sobre tecnologías del texto y edición digital*](https://tthub.io) with Dr. Allés-Torrent. 
+**Friday, April 17**
 
-Some of her most recent publications include "[¡Únete! Humanidades Digitales y cultura del asociacionismo](http://revista.ibict.br/liinc/article/view/4736/4134)" on *Liinc em Revista*,  [Humanidades Digitales: la mirada humana, la mirada crítica](https://www.aacademica.org/gimena.delrio.riande/150) on *Telos: Cuadernos de Comunicación en Innovación* and [La poesía medieval como objeto de estudio en el siglo XXI: evanescencia y fijación en el medio digital](https://www.aacademica.org/gimena.delrio.riande/151) on *Boletín de Literatura Oral* with Clara Martínez Cantón and Elena González Blanco García. 
+09:30 - 10:00am  Welcome
 
-To read her full profile visit [her personal Acta Académica site](https://www.aacademica.org/gimena.delrio.riande) (available Spanish and English). 
+10:00 - 11:30am  [Funders Panel on Cultural Heritage Preservation](https://www.facebook.com/dlocaribbean/videos/812093122619903/) 
 
-# Roopika Risam 
+11:30 - 01:00pm  Lunch
 
-<img src="/assets/roopika_risam.jpg" width="100%" alt="Profile image of Roopika Risam" title="Credit: William & Mary">
+01:00 - 02:00pm  Keynote Speaker Roopika Risam - July 28 3pm EST
 
-Dr. Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education. Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities. The broader goal of her research is to call attention to the inequalities and biases arisen from the rapid digital knowledge production that are reproducing the print culture, and to work collaboratively with colleagues in different disciplines to redress them.
+02:00 - 02:45pm  [Final Discussion on Recommendations](https://www.facebook.com/dlocaribbean/videos/555629578421891/)  
 
-Her first monograpg [*New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](http://www.roopikarisam.com/ndw) (2018) proposes a postcolonial DH approach to uncover and remediate inequalities in digital knowledge production. She is developing [*The Global Du Bois*](http://www.roopikarisam.com/global-du-bois) and is also a co-editor of [*Reviews in Digital Humanities*](http://www.roopikarisam.com/reviews).
 
-To read her full profile visit [her personal website](http://www.roopikarisam.com/about/) (available in English only).
 
+The symposium was going to take place at [The Frost Art Museum](https://frost.fiu.edu), for its significant collection of Latin American art, and at [The Wolfsonian Museum](https://wolfsonian.org) in the heart of Art Deco District of Miami Beach. We are thankful to the The Wolfsonian Public Humanities Lab for their collaboration in securing the venues. 

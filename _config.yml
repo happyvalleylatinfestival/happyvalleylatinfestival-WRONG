@@ -27,7 +27,7 @@ footer:
   es: Un simposio CLIR financiado por la Fundación Mellon. Marco web multilingüe de <a href="http://multilingualdh.org">multilingualdh</a>
   fr: Un symposium CLIR financé par Mellon. Cadre Web multilingue par <a href="http://multilingualdh.org">multilingualdh</a>
   #can add an image to the footer with <img src="//www.mysite.com/wp-content/uploads/image.jpg" />
-exclude: [README.md]
+exclude: README.md
 permalink: pretty
 repository: happyvalleylatinfestival/happyvalleylatinfestival.github.io
 base-url: ""

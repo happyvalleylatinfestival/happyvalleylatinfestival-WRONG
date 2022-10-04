@@ -1,5 +1,5 @@
 title: "Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open-Access, Technological Needs, and Institutional Sustainability"
-url: http://LacClirSymposium2020.github.io
+url: http://happyvalleylatinfestival.github.io
 
 markdown: kramdown
 highlighter: rouge
@@ -29,11 +29,11 @@ footer:
   #can add an image to the footer with <img src="//www.mysite.com/wp-content/uploads/image.jpg" />
 exclude: [README.md]
 permalink: pretty
-repository: LacClirSymposium2020/LacClirSymposium2020.github.io
+repository: happyvalleylatinfestival/happyvalleylatinfestival.github.io
 base-url: ""
 
 social:
-  github: LacClirSymposium2020 
+  github: happyvalleylatinfestival
 #  twitter: brianmaierjr
 #  facebook: brianmaierjr
 #  email: brimaidesigns@gmail.com

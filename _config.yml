@@ -13,6 +13,8 @@ paginate: 5
 #     url: /performances
 #   - title: Vendors
 #     url: /vendors
+#   - title: Getting Here
+#     url: /map
 
 name: 
   en: Latin Festival in Happy Valley, Pennsylvania

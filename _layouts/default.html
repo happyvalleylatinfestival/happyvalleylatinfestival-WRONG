@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{ page.title }} | {{ site.name[page.language] }}</title>
+    <meta name="author" content="jenniferisasi">
+    <meta name="description" content="{{ site.description[page.language] }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="jenniferisasi"> <!--  Esto lo tenía quitado-->
+    <meta name="twitter:creator" content="jenniferisve">
+    <meta name="twitter:title" content="Capacity Assessment of Latin American and Caribbean Partners">
+    <meta name="twitter:description" content="A Symposium about Open-Access, Technological Needs, and Institutional Sustainability">
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+
+  </head>
+  <body>
+
+    <nav>
+      {% assign pages = site.pages | sort: "nav-order"  %}
+      {% for p in pages %}
+        {% if p.language == page.language %}
+          <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+   <!-- ORIGINAL  -->
+   <!-- This is only creating the link of change of language in the main page or "index" thus the rest doesn't work .
+      Adding a whole block with different page.name doesn't fix the issue. It doubles language bar  --> 
+   
+     <nav class="language-switcher">
+      {% if page.name contains "md" %}
+        <a class="en" href="{{ site.baseurl }}/">EN</a>
+        <a class="es" href="{{ site.baseurl | append: "/es" }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" }}">FR</a>
+      {% else %}
+        <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a> 
+        <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
+      {% endif %}
+    </nav> 
+
+    <header>
+      <h1>{{ site.name[page.language] }}</h1>
+      <h2>{{ site.description[page.language] }}</h2>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+  </body>
+ 
+  <footer>
+    <div class="wrapper">
+      <img src="/assets/sponsors.png" width="100%" alt="Image of sponsors CLIR, dLOC, LLILAS, UCLA, UNM and FIU" />
+      &copy; Copyright 2019 {{ site.footer[page.language] }}. 
+    </div>
+  
+  </footer>
+  
+
+
+</html>

@@ -1,0 +1,41 @@
+title: "Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open-Access, Technological Needs, and Institutional Sustainability"
+url: http://LacClirSymposium2020.github.io
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+# navigation:
+#   - title: About
+#     url: /index.html
+#   - title: Speakers
+#     url: /speakers
+#   - title: The Symposium
+#     url: /symposium
+
+name: 
+  en: Capacity Assessment of Latin American and Caribbean Partners
+  es: Evaluación de la capacidad de los socios de América Latina y el Caribe 
+  fr: Évaluation des capacités des partenaires d'Amérique Latine et des Caraïbes
+description: 
+  en: A Symposium about Open-Access, Technological Needs, and Institutional Sustainability
+  es: Un simposio sobre acceso abierto, necesidades tecnológicas y sostenibilidad institucional
+  fr: Un symposium sur le libre accès, les besoins technologiques et la durabilité institutionnelle
+footer:
+  en: A Mellon funded CLIR symposium. Multilingual web frame by <a href="http://multilingualdh.org">multilingualdh</a> 
+  es: Un simposio CLIR financiado por la Fundación Mellon. Marco web multilingüe de <a href="http://multilingualdh.org">multilingualdh</a>
+  fr: Un symposium CLIR financé par Mellon. Cadre Web multilingue par <a href="http://multilingualdh.org">multilingualdh</a>
+  #can add an image to the footer with <img src="//www.mysite.com/wp-content/uploads/image.jpg" />
+exclude: [README.md]
+permalink: pretty
+repository: LacClirSymposium2020/LacClirSymposium2020.github.io
+base-url: ""
+
+social:
+  github: LacClirSymposium2020 
+#  twitter: brianmaierjr
+#  facebook: brianmaierjr
+#  email: brimaidesigns@gmail.com
+
+#### google_analytics: "UA-58263416-1" #### what is this? #### 
